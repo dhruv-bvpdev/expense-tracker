@@ -1,0 +1,1 @@
+A simple expense tracker created using React.js
